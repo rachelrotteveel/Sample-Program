@@ -1,2 +1,2 @@
-Sample-Program
+My first repository
 ==============
